@@ -17,6 +17,7 @@ Music Discord Bot, on distube base.
 ### Donate
 
 [![Donate for food <3](https://cdn.discordapp.com/attachments/814183405901053992/818452510019944478/tenor.gif)](https://www.donationalerts.com/r/animeflame)
+[![Click]](https://www.donationalerts.com/r/animeflame)
 
 ## License
 For more information see `LICENSE`.

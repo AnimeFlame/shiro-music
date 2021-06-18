@@ -1,0 +1,20 @@
+# Dependency Files
+node_modules/
+package-lock.json
+
+# Log Files
+logs/
+*.log
+
+# Config Files
+config.json
+*.example
+
+# In-Development Commands
+commands/productivity/reminder.js
+commands/text/destruct.js
+
+# macOS Files (Ignore these)
+commands/.DS_Store
+.DS_Store
+

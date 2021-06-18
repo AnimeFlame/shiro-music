@@ -1,21 +1,21 @@
 {
-  "name": "shiro",
-  "version": "6.6.6",
-  "description": "Широ, маленькая девочка, много разных функций.",
+  "name": "shiro-music",
+  "version": "v1",
+  "description": "Shiro Music Bot.",
   "main": "shiro.js",
   "scripts": {
     "start": "node shiro.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnimeFlame/shiro.git"
+    "url": "git+https://github.com/AnimeFlame/shiro-music.git"
   },
   "author": "AnimeFlame#6666",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AnimeFlame/shiro/issues"
+    "url": "https://github.com/AnimeFlame/shiro-music/issues"
   },
-  "homepage": "https://github.com/AnimeFlame/shiro/blob/main/README.md",
+  "homepage": "https://github.com/AnimeFlame/shiro-music/blob/main/README.md",
   "engines": {
     "node": ">=14"
   },
